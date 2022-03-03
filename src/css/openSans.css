@@ -4,7 +4,8 @@
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
-  src: url(https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV0ewJER.woff2) format('woff2');
+  src: url("../fonts/OpenSans-Italic-cyr-ext/OpenSans-Italic.eot");
+  src: url("../fonts/OpenSans-Italic-cyr-ext/OpenSans-Italic.eot?#iefix") format('embedded-opentype'), url("../fonts/OpenSans-Italic-cyr-ext/OpenSans-Italic.woff") format('woff'), url("../fonts/OpenSans-Italic-cyr-ext/OpenSans-Italic.ttf") format('truetype'), url("../fonts/OpenSans-Italic-cyr-ext/OpenSans-Italic.svg#fontello") format('svg');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -13,7 +14,8 @@
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
-  src: url(https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVQewJER.woff2) format('woff2');
+  src: url("../fonts/OpenSans-Italic-cyr/OpenSans-Italic.eot");
+  src: url("../fonts/OpenSans-Italic-cyr/OpenSans-Italic.eot?#iefix") format('embedded-opentype'), url("../fonts/OpenSans-Italic-cyr/OpenSans-Italic.woff") format('woff'), url("../fonts/OpenSans-Italic-cyr/OpenSans-Italic.ttf") format('truetype'), url("../fonts/OpenSans-Italic-cyr/OpenSans-Italic.svg#fontello") format('svg');
   unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -22,7 +24,8 @@
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
-  src: url(https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVwewJER.woff2) format('woff2');
+  src: url("../fonts/OpenSans-Italic-greek-ext/OpenSans-Italic.eot");
+  src: url("../fonts/OpenSans-Italic-greek-ext/OpenSans-Italic.eot?#iefix") format('embedded-opentype'), url("../fonts/OpenSans-Italic-greek-ext/OpenSans-Italic.woff") format('woff'), url("../fonts/OpenSans-Italic-greek-ext/OpenSans-Italic.ttf") format('truetype'), url("../fonts/OpenSans-Italic-greek-ext/OpenSans-Italic.svg#fontello") format('svg');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -31,7 +34,8 @@
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
-  src: url(https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVMewJER.woff2) format('woff2');
+  src: url("../fonts/OpenSans-Italic-greek/OpenSans-Italic.eot");
+  src: url("../fonts/OpenSans-Italic-greek/OpenSans-Italic.eot?#iefix") format('embedded-opentype'), url("../fonts/OpenSans-Italic-greek/OpenSans-Italic.woff") format('woff'), url("../fonts/OpenSans-Italic-greek/OpenSans-Italic.ttf") format('truetype'), url("../fonts/OpenSans-Italic-greek/OpenSans-Italic.svg#fontello") format('svg');
   unicode-range: U+0370-03FF;
 }
 /* hebrew */
@@ -40,7 +44,8 @@
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
-  src: url(https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVIewJER.woff2) format('woff2');
+  src: url("../fonts/OpenSans-Italic-hebrew/OpenSans-Italic.eot");
+  src: url("../fonts/OpenSans-Italic-hebrew/OpenSans-Italic.eot?#iefix") format('embedded-opentype'), url("../fonts/OpenSans-Italic-hebrew/OpenSans-Italic.woff") format('woff'), url("../fonts/OpenSans-Italic-hebrew/OpenSans-Italic.ttf") format('truetype'), url("../fonts/OpenSans-Italic-hebrew/OpenSans-Italic.svg#fontello") format('svg');
   unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
 }
 /* vietnamese */
@@ -67,7 +72,8 @@
   font-style: italic;
   font-weight: 400;
   font-stretch: 100%;
-  src: url(https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAewA.woff2) format('woff2');
+  src: url("../fonts/OpenSans-Italic-latin/OpenSans-Italic.eot");
+  src: url("../fonts/OpenSans-Italic-latin/OpenSans-Italic.eot?#iefix") format('embedded-opentype'), url("../fonts/OpenSans-Italic-latin/OpenSans-Italic.woff") format('woff'), url("../fonts/OpenSans-Italic-latin/OpenSans-Italic.ttf") format('truetype'), url("../fonts/OpenSans-Italic-latin/OpenSans-Italic.svg#fontello") format('svg');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -76,7 +82,9 @@
   font-style: normal;
   font-weight: 300;
   font-stretch: 100%;
-  src: url(https://fonts.gstatic.com/s/opensans/v28/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2) format('woff2');
+  src: url("../fonts/OpenSans-Regular-cyr-ext/OpenSans-Regular.eot");
+  src: url("../fonts/OpenSans-Regular-cyr-ext/OpenSans-Regular.eot?#iefix") format('embedded-opentype'), url("../fonts/OpenSans-Regular-cyr-ext/OpenSans-Regular.woff") format('woff'), url("../fonts/OpenSans-Regular-cyr-ext/OpenSans-Regular.ttf") format('truetype'), url("../fonts/OpenSans-Regular-cyr-ext/OpenSans-Regular.svg#fontello") format('svg');
+
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
