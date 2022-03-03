@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Mon Sep 27 10:42:08 2021
+ By Aleksey,,,
+Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
+</metadata>
+<defs>
+<font id="OpenSans-Italic" horiz-adv-x="1229" >
+  <font-face 
+    font-family="Open Sans"
+    font-weight="400"
+    font-style="italic"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="1638"
+    descent="-410"
+    bbox="150 -20 1784 1576"
+    underline-thickness="50"
+    underline-position="-175"
+    slope="-12"
+    unicode-range="U+1F4D-1FDE"
+  />
+<missing-glyph 
+ />
+    <glyph glyph-name=".notdef" 
+ />
+    <glyph glyph-name="glyph1" horiz-adv-x="1476" 
+d="M689 -20q-176 0 -296.5 70t-181.5 198t-61 301q0 125 22.5 242t65.5 221.5t106.5 191t145.5 149.5t181.5 97.5t215.5 34.5q246 0 384.5 -152.5t138.5 -423.5q0 -121 -20 -236.5t-60 -219.5t-100 -190.5t-140 -149.5t-180 -98t-221 -35zM695 129q86 0 159 30t132.5 84
+t105 127t76.5 160.5t47 184.5t16 198q0 200 -94.5 311t-261.5 111q-86 0 -160 -28.5t-135 -81t-107.5 -124.5t-78.5 -159.5t-48.5 -185.5t-16.5 -203q0 -132 43 -227t125 -146t198 -51z" />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="682" 
+ />
+    <glyph glyph-name="uni1F4D" unicode="&#x1f4d;" horiz-adv-x="1850" 
+d="M1063 -20q-176 0 -296.5 70t-181.5 198t-61 301q0 125 22.5 242t65.5 221.5t106.5 191t145.5 149.5t181.5 97.5t215.5 34.5q246 0 384.5 -152.5t138.5 -423.5q0 -121 -20 -236.5t-60 -219.5t-100 -190.5t-140 -149.5t-180 -98t-221 -35zM1069 129q86 0 159 30t132.5 84
+t105 127t76.5 160.5t47 184.5t16 198q0 200 -94.5 311t-261.5 111q-86 0 -160 -28.5t-135 -81t-107.5 -124.5t-78.5 -159.5t-48.5 -185.5t-16.5 -203q0 -132 43 -227t125 -146t198 -51zM395 1145v25q20 41 40.5 90t40 101.5t36.5 101.5h175l-1 -21q-26 -45 -61 -96
+t-73.5 -102.5t-76.5 -98.5h-80zM331 1127q-75 10 -118.5 56t-43.5 122q0 49 13.5 89t41.5 63.5t71 23.5q35 0 58.5 -20.5t23.5 -60.5q0 -33 -16 -55.5t-42.5 -34.5t-59.5 -14q-1 -4 -1.5 -8.5t-0.5 -9.5q0 -30 23.5 -52t66.5 -28z" />
+    <glyph glyph-name="uni1FDE" unicode="&#x1fde;" horiz-adv-x="1115" 
+d="M719 1240v25q20 41 40.5 90t40 101.5t36.5 101.5h175l-1 -21q-26 -45 -61 -96t-73.5 -102.5t-76.5 -98.5h-80zM655 1222q-75 10 -118.5 56t-43.5 122q0 49 13.5 89t41.5 63.5t71 23.5q35 0 58.5 -20.5t23.5 -60.5q0 -33 -16 -55.5t-42.5 -34.5t-59.5 -14q-1 -4 -1.5 -8.5
+t-0.5 -9.5q0 -30 23.5 -52t66.5 -28z" />
+  </font>
+</defs></svg>
